@@ -452,9 +452,10 @@ section {
 }
 .portfolios .portfolio-item .hover-items .icons .icon:hover {
   background-color: var(--color-white);
+  color: var(--color-black);
 }
 .portfolios .portfolio-item .hover-items .icons .icon:hover i {
-  color: var(--color-primary);
+  color: var(--color-black);
 }
 
 .portfolio-item:hover .hover-items {
