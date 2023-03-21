@@ -230,7 +230,8 @@ section {
 .front-skill,
 .back-skill,
 .tools-skill,
-.comming-skill {
+.comming-skill,
+.qualite-skill {
   display: flex;
 }
 .skill {
