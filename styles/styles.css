@@ -188,11 +188,16 @@ section {
 .header-content .left-header .image img:hover {
   filter: grayscale(0);
 }
+.header-content .right-header .bear {
+  width: 150px;
+  height: 150px;
+}
 .header-content .right-header {
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding-right: 18rem;
+  align-items: center;
 }
 .header-content .right-header .name {
   font-size: 3rem;
