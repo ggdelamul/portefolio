@@ -230,7 +230,7 @@ section {
 .skill-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
 }
 .front-skill,
 .back-skill,
